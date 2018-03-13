@@ -8,7 +8,7 @@
 
 # Running the Samples
 
-Before you can successfully build and run these sample apps, you'll need to download and install the [Action Components Trail](http://appracatappra.com/products/action-components/) version from the Appracatappra website or have purchased and installed a licensed version of the components.
+Before you can successfully build and run these sample apps, you'll need to download and install the [Action Components Trial](http://appracatappra.com/products/action-components/) version from the Appracatappra website or have purchased and installed a licensed version of the components.
 
 Next, open either the iOS or the Android version of the sample in Visual Studio and expand the **Resources** folder:
 
